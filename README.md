@@ -28,7 +28,7 @@ git clone https://github.com/TruongNV-hut/AIcandy_Android_ObjectDetection_vrnthb
 
 ### Video Demo
 ```bash
-Youtube: https://youtu.be/_GMqr4Fz-fk
+Youtube: [https://www.youtube.com/@aicandyvn/videos](https://youtu.be/_GMqr4Fz-fk).
 ```
 
 ### More Information
