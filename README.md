@@ -30,6 +30,7 @@ git clone https://github.com/TruongNV-hut/AIcandy_Android_ObjectDetection_vrnthb
 Youtube: [https://www.youtube.com/@aicandyvn/videos](https://youtu.be/_GMqr4Fz-fk)
 
 ### More Information
+To learn more about this project, [see here](https://aicandy.vn/trien-khai-nhan-dien-doi-tuong-tren-thiet-bi-android-voi-yolo).
 
 To learn more about knowledge and real-world projects on Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), visit the website [aicandy.vn](https://aicandy.vn/).
 
